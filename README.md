@@ -16,13 +16,13 @@ Hi there! I'm **Matthias Abddisa**, a driven IT professional specializing in **I
 
 ## 📊 GitHub Stats
 
-![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthias-Ab&show_icons=true&theme=radical)
+![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthias-Ab&show_icons=true&theme=highcontrast)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Matthias-Ab&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Matthias-Ab&theme=highcontrast&hide_border=true)
 
 ---
 
@@ -34,13 +34,13 @@ Hi there! I'm **Matthias Abddisa**, a driven IT professional specializing in **I
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-Ab&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-Ab&layout=compact&theme=highcontrast)
 
 ---
 
 ## 🚀 Trophy Showcase
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matthias-Ab&theme=radical&no-frame=true&no-bg=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matthias-Ab&theme=highcontrast&no-frame=true&no-bg=true&column=7)
 
 ---
 
