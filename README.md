@@ -44,9 +44,28 @@ Hi there! I'm **Matthias Abddisa**, a driven IT professional specializing in **I
 
 ---
 
+## 📈 GitHub Issues & Pull Requests Stats
+
+**Issues**:  
+![GitHub Issues](https://img.shields.io/github/issues/Matthias-Ab?style=flat-square)
+
+**Pull Requests**:  
+![GitHub PRs](https://img.shields.io/github/pull-requests/Matthias-Ab?style=flat-square)
+
+---
+
+## 🔧 Tools & Technologies
+
+![Tools](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white)
+![Tools](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightgrey?logo=windows&logoColor=white)
+
+---
+
 ## 📄 My Resume
 
-Want to learn more about my professional background? 
+Want to learn more about my professional background?  
+[Click Here to View My Resume](https://link-to-your-resume.com)
+
 ---
 
 ## 📬 Get in Touch
@@ -56,3 +75,12 @@ Want to learn more about my professional background?
 - **GitHub**: [Matthias-Ab](https://github.com/Matthias-Ab)
 
 Let’s connect and grow together! 🚀
+
+---
+
+## 🎨 GitHub Custom Badges
+
+- ![GitHub Badge](https://img.shields.io/badge/Tech%20Stack-JavaScript-orange?logo=javascript&logoColor=white)
+- ![GitHub Badge](https://img.shields.io/badge/Tech%20Stack-React-blue?logo=react&logoColor=white)
+- ![GitHub Badge](https://img.shields.io/badge/Tech%20Stack-Python-blue?logo=python&logoColor=white)
+- ![GitHub Badge](https://img.shields.io/badge/Tech%20Stack-Node.js-green?logo=node.js&logoColor=white)
