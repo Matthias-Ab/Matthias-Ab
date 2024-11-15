@@ -46,9 +46,7 @@ Hi there! I'm **Matthias Abddisa**, a driven IT professional specializing in **I
 
 ## 📄 My Resume
 
-Want to learn more about my professional background?  
-[📂 View My Resume](https://yourlinktoresume.com/Matthias-Abddisa.pdf)
-
+Want to learn more about my professional background? 
 ---
 
 ## 📬 Get in Touch
