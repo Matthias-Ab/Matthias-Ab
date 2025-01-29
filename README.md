@@ -94,7 +94,7 @@ I’m always open to collaborating on exciting projects or discussing new opport
 
 ## 🌟 Fun Facts About Me
 
-- ⚽ I play the football in my free time—football is my escape.  
+- ⚽ I play football in my free time—football is my escape.  
 - 🌍 I’m passionate about using technology to solve real-world problems.  
 
 ---
