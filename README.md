@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile! 🚀
-
-![GitHub Banner](https://yourbannerlink.com/banner.jpg)  
+ 
 *Crafting code, securing systems, and building solutions.*
 
 Hi, I’m **Matthias Abddisa**, a passionate **IT Professional** specializing in **Cybersecurity**, **Full-Stack Development**, and **IT Support**. With a year of hands-on experience, I’m dedicated to solving complex problems, securing systems, and creating seamless digital experiences. Let’s build something amazing together! 💻🔒
@@ -79,7 +78,7 @@ Hi, I’m **Matthias Abddisa**, a passionate **IT Professional** specializing in
 ## 📄 My Resume
 
 Want to learn more about my professional journey?  
-[![Resume](https://img.shields.io/badge/View-My_Resume-green?logo=adobe-acrobat-reader)](https://link-to-your-resume.com)
+[![Resume](https://img.shields.io/badge/View-My_Resume-green?logo=adobe-acrobat-reader)]([https://link-to-your-resume.com](https://drive.google.com/file/d/1-Bj5QjUXH3OR250_yl_EZAAH3Nl22oAd/view?usp=sharing))
 
 ---
 
