@@ -25,6 +25,7 @@ Hi, I’m **Matthias Abddisa**, a passionate **IT Professional** specializing in
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-007396?logo=java&logoColor=white)
 
 ### **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
