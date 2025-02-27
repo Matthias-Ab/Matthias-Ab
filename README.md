@@ -53,12 +53,6 @@ Hi, I’m **Matthias Abddisa**, a passionate **IT Professional** specializing in
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Matthias-Ab&theme=github-dark&hide_border=true)
-
----
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-Ab&layout=compact&theme=radical&hide_border=true)
