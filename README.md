@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile! 🚀
 
-*Crafting code, securing systems, and building solutions.*
+*Crafting innovative code, securing systems, and building transformative digital experiences.*
 
-Hi, I’m **Matthias Abddisa** – an **IT Professional** with a focus on **Cybersecurity**, **Full-Stack Development**, and **IT Support**. With hands-on experience solving complex problems and securing systems, I'm excited to build amazing digital experiences. Let’s innovate together! 💻🔒
+Hi, I’m **Matthias Abddisa** – a dedicated **IT Professional** specializing in **Cybersecurity**, **Full-Stack Development**, and **IT Support**. With a passion for overcoming complex challenges, I continuously strive to enhance digital landscapes. Let’s create something extraordinary together! 💻🔒
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Matthias-Ab&color=ff79c6)](https://github.com/Matthias-Ab)
 
@@ -10,10 +10,10 @@ Hi, I’m **Matthias Abddisa** – an **IT Professional** with a focus on **Cybe
 
 ## 🌟 About Me
 
-- **IT Enthusiast** specializing in Cybersecurity and Full-Stack Development.  
-- **Problem Solver**: I thrive on overcoming challenges with creative solutions.  
-- **Continuous Learner**: Constantly exploring new technologies to stay ahead.  
-- **Team Player**: Passionate about collaboration and contributing to impactful projects.
+- **Cybersecurity Specialist & Full-Stack Developer** with hands-on experience in secure and scalable systems.  
+- **Innovative Problem Solver:** I thrive on transforming challenges into opportunities.  
+- **Lifelong Learner:** Constantly exploring emerging technologies and methodologies.  
+- **Team-Oriented Collaborator:** Committed to driving impactful projects through teamwork.
 
 ---
 
@@ -43,66 +43,56 @@ Hi, I’m **Matthias Abddisa** – an **IT Professional** with a focus on **Cybe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<!-- General Stats -->
-![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthias-Ab&show_icons=true&theme=dracula&hide_border=true)
+<!-- GitHub Stats -->
+![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthias-Ab&show_icons=true&theme=onedark&hide_border=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-Ab&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-Ab&layout=compact&theme=onedark&hide_border=true)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Matthias-Ab&theme=dracula&hide_border=true)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Matthias-Ab&theme=onedark&hide_border=true)
 
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matthias-Ab&bg_color=282a36&color=8be9fd&line=50fa7b&point=ff79c6&area=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matthias-Ab&theme=dracula&no-frame=true&no-bg=true&column=7)
+<!-- Updated Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matthias-Ab&custom=true&hide_border=true)
 
 ---
 
-## 📂 Featured Projects
+## 🎵 Now Playing on Spotify
+<!-- Replace YOUR_SPOTIFY_UID with your actual Spotify UID -->
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default)
 
-<!-- Replace 'repo-name' with your project repository names -->
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=Matthias-Ab&repo=repo-one&theme=dracula)](https://github.com/Matthias-Ab/repo-one)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=Matthias-Ab&repo=repo-two&theme=dracula)](https://github.com/Matthias-Ab/repo-two)
+---
+
+## 🌟 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matthias-Ab&theme=onedark&no-frame=true&no-bg=true&column=7)
+
+---
+
+## 💬 Daily Inspiration
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ---
 
 ## 📄 My Resume
-
-Want to learn more about my professional journey?  
+Discover my professional journey:  
 [![Resume](https://img.shields.io/badge/View-My_Resume-green?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1-Bj5QjUXH3OR250_yl_EZAAH3Nl22oAd/view?usp=sharing)
 
 ---
 
 ## 📬 Let’s Connect!
-
-I’m always open to collaborating on exciting projects or exploring new opportunities. Reach out to me via:
-
-- **Email**: [matthiasabddisa@gmail.com](mailto:matthiasabddisa@gmail.com)  
-- **LinkedIn**: [Matthias Abddisa](https://et.linkedin.com/in/matthias-abddisa-9163881a3)  
-- **GitHub**: [Matthias-Ab](https://github.com/Matthias-Ab)
+I’m open to collaboration and new opportunities. Feel free to reach out:
+- **Email:** [matthiasabddisa@gmail.com](mailto:matthiasabddisa@gmail.com)  
+- **LinkedIn:** [Matthias Abddisa](https://et.linkedin.com/in/matthias-abddisa-9163881a3)  
+- **GitHub:** [Matthias-Ab](https://github.com/Matthias-Ab)
 
 ---
 
-## 🌟 Fun Facts About Me
-
-- ⚽ I play football in my free time—it’s my way to unwind.  
-- 🌍 Passionate about using technology to solve real-world challenges.
-
----
-
-## 🎨 GitHub Custom Badges
-
-- ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-green?logo=open-source-initiative&logoColor=white)
-- ![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?logo=lock&logoColor=white)
-- ![FullStack Developer](https://img.shields.io/badge/FullStack-Developer-blue?logo=fullstack&logoColor=white)
+## 🌍 Latest Blog Posts
+<!-- If you have a blog, include your posts here -->
+*Coming Soon...*
 
 ---
 
-**Thanks for stopping by! Let’s build the future together.** 🚀
+**Thanks for visiting! Let's build the future together.** 🚀
